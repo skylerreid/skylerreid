@@ -1,8 +1,8 @@
 ## Hello there!
 
-Montana State University Electrical Engineering graduate, currently working as a student at Los Alamos National Laboratory. 
+🌱 Montana State University Electrical Engineering graduate, currently working as a student at Los Alamos National Laboratory. I use Julia and Python on a daily basis. 
 
-In addition to my work, I'm learning about software development practices for scientific computing using C, C++, Fortran, and Makefiles. I'm an avid mountain biker, skier, and photographer. 
+🔭 In addition to my work, I'm learning about software development practices for scientific computing using C, C++, Fortran, and Makefiles. I'm also an avid mountain biker, skier, and photographer. 
 
 <!--
 **skylerreid/skylerreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

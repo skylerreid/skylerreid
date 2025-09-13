@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there!
+
+Montana State University Electrical Engineering graduate, currently working as a student at Los Alamos National Laboratory. 
+
+In addition to my work, I'm learning about software development practices for scientific computing using C, C++, Fortran, and Makefiles. I'm an avid mountain biker, skier, and photographer. 
 
 <!--
 **skylerreid/skylerreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
